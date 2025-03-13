@@ -31,8 +31,13 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
 <div>
-  <img src="https://streak-stats.demolab.com?user=21DP4RKaln&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=21DP4RKaln&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 
   <a href="https://open.spotify.com/user/yiw8yxhoq7clx54ta6ed7vmyy">
