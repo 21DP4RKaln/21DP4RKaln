@@ -37,12 +37,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/yiw8yxhoq7clx54ta6ed7vmyy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yiw8yxhoq7clx54ta6ed7vmyy&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/21DP4RKaln/21DP4RKaln/output/pacman-contribution-graph.svg" alt="Pacman animation" />
