@@ -31,19 +31,20 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/21DP4RKaln/21DP4RKaln/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=21DP4RKaln&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=21DP4RKaln&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=21DP4RKaln&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif?cid=790b7611ed8xqsbdi3afcjz1jy7cbp4ucx7kyv08z3tujw8w&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<div align="center">
+  <a href="https://open.spotify.com/user/yiw8yxhoq7clx54ta6ed7vmyy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yiw8yxhoq7clx54ta6ed7vmyy&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/21DP4RKaln/21DP4RKaln/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
