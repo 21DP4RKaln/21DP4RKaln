@@ -31,13 +31,9 @@
 
 ###
 
-<div align="left">
+<div">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=21DP4RKaln&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
 
-###
-
-<div align="right">
   <a href="https://open.spotify.com/user/yiw8yxhoq7clx54ta6ed7vmyy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=yiw8yxhoq7clx54ta6ed7vmyy&count=5&unique=false" alt="Spotify recently played"  />
   </a>
