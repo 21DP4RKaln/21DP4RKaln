@@ -5,7 +5,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=21DP4RKaln&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=21DP4RKaln&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div style="flex: 1; display: flex; justify-content: flex-end; column;" align="right" >
+<div style="flex: 1; display: flex; justify-content: flex-end;" align="right" >
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQzODAybW4xZGxlMnE0N243OGhkbTBkZWw4dzhjNzMwbnNyMGlvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
   <a href="https://open.spotify.com/user/yiw8yxhoq7clx54ta6ed7vmyy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=yiw8yxhoq7clx54ta6ed7vmyy&count=5&unique=false" alt="Spotify recently played" />
