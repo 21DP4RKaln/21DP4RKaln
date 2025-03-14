@@ -51,7 +51,7 @@
 </div>
   <div>
     <div style="display: flex; align-items: flex-start;">
-      <div align="right">
+      <div align="left">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=21DP4RKaln&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
       </div>
         <div align="right">
