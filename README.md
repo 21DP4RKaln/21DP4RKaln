@@ -47,7 +47,6 @@
     <div align="left">
       <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQzODAybW4xZGxlMnE0N243OGhkbTBkZWw4dzhjNzMwbnNyMGlvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
     </div>
-  </div>
   <div>
       <div align="left">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=21DP4RKaln&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
