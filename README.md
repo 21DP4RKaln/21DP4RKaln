@@ -43,8 +43,7 @@
 
 ###
 
-<div>
-  <div style="display: flex; align-items: flex-start;">
+  <div>
     <div align="left">
       <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQzODAybW4xZGxlMnE0N243OGhkbTBkZWw4dzhjNzMwbnNyMGlvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
     </div>
@@ -59,5 +58,4 @@
         </a>
       </div>
   </div>
-</div>
-###
+
