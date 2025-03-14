@@ -5,11 +5,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=21DP4RKaln&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=21DP4RKaln&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=21DP4RKaln&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <div style="flex: 1; display: flex; justify-content: flex-end;" align="right">
   <a href="https://open.spotify.com/user/yiw8yxhoq7clx54ta6ed7vmyy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=yiw8yxhoq7clx54ta6ed7vmyy&count=5&unique=false" alt="Spotify recently played" />
   </a>
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=21DP4RKaln&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
