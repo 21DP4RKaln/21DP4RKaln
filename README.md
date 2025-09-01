@@ -4,15 +4,16 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img align="left" src="https://nirzak-streak-stats.vercel.app/?user=21DP4RKaln&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-
-  <a href="https://open.spotify.com/user/yiw8yxhoq7clx54ta6ed7vmyy">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=yiw8yxhoq7clx54ta6ed7vmyy&count=3&unique=false" alt="Spotify recently played" />
-  </a>
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21DP4RKaln&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used Languages" />
 </p>
 
 <p align="center">  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21DP4RKaln&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used Languages" />
-  <img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQzODAybW4xZGxlMnE0N243OGhkbTBkZWw4dzhjNzMwbnNyMGlvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+  <a href="https://open.spotify.com/user/yiw8yxhoq7clx54ta6ed7vmyy">
+    <img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=yiw8yxhoq7clx54ta6ed7vmyy&count=3&unique=false" alt="Spotify recently played" />
+  </a>
+  <img align="right"  height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQzODAybW4xZGxlMnE0N243OGhkbTBkZWw4dzhjNzMwbnNyMGlvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 </p>
+
 
 [![](https://visitcount.itsvg.in/api?id=21DP4RKaln&icon=0&color=0)](https://visitcount.itsvg.in)
