@@ -7,7 +7,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21DP4RKaln&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used Languages" />
 </p>
 <br clear="left"/>
-<p align="center">  
+<p align="center">
+  <br/>
   <a href="https://open.spotify.com/user/yiw8yxhoq7clx54ta6ed7vmyy">
     <img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=yiw8yxhoq7clx54ta6ed7vmyy&count=5&unique=false" alt="Spotify recently played" />
   </a>
